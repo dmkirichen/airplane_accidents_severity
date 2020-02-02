@@ -22,7 +22,7 @@ Accident_ID,Severity
 162,Highly_Fatal_And_Damaging
 166,Significant_Damage_And_Serious_Injuries
 170,Significant_Damage_And_Fatalities
-173,Minor_Damage_And_Injuries
+173,Highly_Fatal_And_Damaging
 177,Highly_Fatal_And_Damaging
 180,Significant_Damage_And_Fatalities
 182,Significant_Damage_And_Fatalities
@@ -88,10 +88,10 @@ Accident_ID,Severity
 437,Significant_Damage_And_Fatalities
 440,Significant_Damage_And_Fatalities
 444,Highly_Fatal_And_Damaging
-447,Highly_Fatal_And_Damaging
+447,Significant_Damage_And_Serious_Injuries
 451,Minor_Damage_And_Injuries
 461,Significant_Damage_And_Serious_Injuries
-469,Significant_Damage_And_Serious_Injuries
+469,Minor_Damage_And_Injuries
 470,Minor_Damage_And_Injuries
 481,Minor_Damage_And_Injuries
 483,Significant_Damage_And_Fatalities
@@ -142,12 +142,12 @@ Accident_ID,Severity
 674,Minor_Damage_And_Injuries
 676,Significant_Damage_And_Fatalities
 682,Significant_Damage_And_Fatalities
-686,Highly_Fatal_And_Damaging
+686,Minor_Damage_And_Injuries
 687,Highly_Fatal_And_Damaging
 692,Minor_Damage_And_Injuries
 699,Significant_Damage_And_Serious_Injuries
 703,Significant_Damage_And_Serious_Injuries
-706,Highly_Fatal_And_Damaging
+706,Significant_Damage_And_Fatalities
 708,Significant_Damage_And_Fatalities
 714,Minor_Damage_And_Injuries
 719,Minor_Damage_And_Injuries
@@ -185,7 +185,7 @@ Accident_ID,Severity
 887,Significant_Damage_And_Serious_Injuries
 888,Minor_Damage_And_Injuries
 889,Highly_Fatal_And_Damaging
-898,Significant_Damage_And_Fatalities
+898,Highly_Fatal_And_Damaging
 902,Highly_Fatal_And_Damaging
 908,Highly_Fatal_And_Damaging
 909,Significant_Damage_And_Serious_Injuries
@@ -240,7 +240,7 @@ Accident_ID,Severity
 1160,Highly_Fatal_And_Damaging
 1164,Significant_Damage_And_Fatalities
 1170,Highly_Fatal_And_Damaging
-1175,Highly_Fatal_And_Damaging
+1175,Minor_Damage_And_Injuries
 1179,Highly_Fatal_And_Damaging
 1186,Significant_Damage_And_Serious_Injuries
 1193,Highly_Fatal_And_Damaging
@@ -368,7 +368,7 @@ Accident_ID,Severity
 1861,Significant_Damage_And_Fatalities
 1866,Minor_Damage_And_Injuries
 1868,Significant_Damage_And_Serious_Injuries
-1872,Minor_Damage_And_Injuries
+1872,Significant_Damage_And_Serious_Injuries
 1875,Minor_Damage_And_Injuries
 1877,Significant_Damage_And_Fatalities
 1879,Significant_Damage_And_Fatalities
@@ -383,7 +383,7 @@ Accident_ID,Severity
 1920,Significant_Damage_And_Fatalities
 1933,Minor_Damage_And_Injuries
 1940,Minor_Damage_And_Injuries
-1941,Highly_Fatal_And_Damaging
+1941,Significant_Damage_And_Fatalities
 1944,Minor_Damage_And_Injuries
 1946,Significant_Damage_And_Fatalities
 1950,Significant_Damage_And_Serious_Injuries
@@ -411,8 +411,8 @@ Accident_ID,Severity
 2048,Minor_Damage_And_Injuries
 2063,Significant_Damage_And_Serious_Injuries
 2073,Minor_Damage_And_Injuries
-2075,Highly_Fatal_And_Damaging
-2081,Significant_Damage_And_Serious_Injuries
+2075,Minor_Damage_And_Injuries
+2081,Minor_Damage_And_Injuries
 2082,Highly_Fatal_And_Damaging
 2086,Significant_Damage_And_Serious_Injuries
 2090,Minor_Damage_And_Injuries
@@ -426,7 +426,7 @@ Accident_ID,Severity
 2107,Significant_Damage_And_Fatalities
 2113,Significant_Damage_And_Serious_Injuries
 2122,Minor_Damage_And_Injuries
-2123,Significant_Damage_And_Fatalities
+2123,Significant_Damage_And_Serious_Injuries
 2132,Minor_Damage_And_Injuries
 2134,Highly_Fatal_And_Damaging
 2141,Highly_Fatal_And_Damaging
@@ -445,7 +445,7 @@ Accident_ID,Severity
 2199,Highly_Fatal_And_Damaging
 2204,Significant_Damage_And_Serious_Injuries
 2206,Minor_Damage_And_Injuries
-2212,Significant_Damage_And_Serious_Injuries
+2212,Minor_Damage_And_Injuries
 2215,Highly_Fatal_And_Damaging
 2217,Significant_Damage_And_Fatalities
 2220,Minor_Damage_And_Injuries
@@ -565,7 +565,7 @@ Accident_ID,Severity
 2746,Minor_Damage_And_Injuries
 2750,Highly_Fatal_And_Damaging
 2755,Significant_Damage_And_Serious_Injuries
-2764,Highly_Fatal_And_Damaging
+2764,Significant_Damage_And_Fatalities
 2767,Highly_Fatal_And_Damaging
 2769,Significant_Damage_And_Fatalities
 2772,Significant_Damage_And_Serious_Injuries
@@ -660,7 +660,7 @@ Accident_ID,Severity
 3239,Highly_Fatal_And_Damaging
 3240,Minor_Damage_And_Injuries
 3246,Minor_Damage_And_Injuries
-3247,Significant_Damage_And_Fatalities
+3247,Minor_Damage_And_Injuries
 3252,Significant_Damage_And_Serious_Injuries
 3259,Minor_Damage_And_Injuries
 3262,Highly_Fatal_And_Damaging
@@ -700,7 +700,7 @@ Accident_ID,Severity
 3422,Minor_Damage_And_Injuries
 3428,Significant_Damage_And_Serious_Injuries
 3431,Highly_Fatal_And_Damaging
-3434,Significant_Damage_And_Fatalities
+3434,Highly_Fatal_And_Damaging
 3436,Significant_Damage_And_Serious_Injuries
 3440,Significant_Damage_And_Serious_Injuries
 3443,Significant_Damage_And_Fatalities
@@ -900,7 +900,7 @@ Accident_ID,Severity
 4405,Highly_Fatal_And_Damaging
 4413,Highly_Fatal_And_Damaging
 4414,Significant_Damage_And_Fatalities
-4426,Significant_Damage_And_Serious_Injuries
+4426,Minor_Damage_And_Injuries
 4430,Significant_Damage_And_Fatalities
 4431,Minor_Damage_And_Injuries
 4438,Significant_Damage_And_Fatalities
@@ -1067,7 +1067,7 @@ Accident_ID,Severity
 5230,Significant_Damage_And_Fatalities
 5231,Significant_Damage_And_Fatalities
 5232,Significant_Damage_And_Serious_Injuries
-5234,Significant_Damage_And_Serious_Injuries
+5234,Highly_Fatal_And_Damaging
 5239,Significant_Damage_And_Fatalities
 5244,Significant_Damage_And_Serious_Injuries
 5245,Minor_Damage_And_Injuries
@@ -1076,10 +1076,10 @@ Accident_ID,Severity
 5262,Significant_Damage_And_Serious_Injuries
 5268,Highly_Fatal_And_Damaging
 5271,Significant_Damage_And_Serious_Injuries
-5275,Significant_Damage_And_Fatalities
+5275,Highly_Fatal_And_Damaging
 5277,Significant_Damage_And_Serious_Injuries
 5278,Significant_Damage_And_Fatalities
-5283,Highly_Fatal_And_Damaging
+5283,Minor_Damage_And_Injuries
 5284,Highly_Fatal_And_Damaging
 5285,Highly_Fatal_And_Damaging
 5288,Highly_Fatal_And_Damaging
@@ -1117,7 +1117,7 @@ Accident_ID,Severity
 5531,Highly_Fatal_And_Damaging
 5536,Highly_Fatal_And_Damaging
 5537,Significant_Damage_And_Fatalities
-5538,Significant_Damage_And_Serious_Injuries
+5538,Highly_Fatal_And_Damaging
 5547,Highly_Fatal_And_Damaging
 5554,Significant_Damage_And_Serious_Injuries
 5561,Minor_Damage_And_Injuries
@@ -1128,7 +1128,7 @@ Accident_ID,Severity
 5583,Significant_Damage_And_Fatalities
 5584,Minor_Damage_And_Injuries
 5586,Significant_Damage_And_Fatalities
-5589,Significant_Damage_And_Fatalities
+5589,Minor_Damage_And_Injuries
 5595,Significant_Damage_And_Serious_Injuries
 5601,Significant_Damage_And_Serious_Injuries
 5603,Minor_Damage_And_Injuries
@@ -1192,7 +1192,7 @@ Accident_ID,Severity
 5899,Significant_Damage_And_Serious_Injuries
 5903,Highly_Fatal_And_Damaging
 5906,Significant_Damage_And_Fatalities
-5907,Significant_Damage_And_Serious_Injuries
+5907,Minor_Damage_And_Injuries
 5914,Highly_Fatal_And_Damaging
 5919,Highly_Fatal_And_Damaging
 5928,Minor_Damage_And_Injuries
@@ -1224,7 +1224,7 @@ Accident_ID,Severity
 6044,Highly_Fatal_And_Damaging
 6053,Highly_Fatal_And_Damaging
 6055,Significant_Damage_And_Fatalities
-6056,Significant_Damage_And_Serious_Injuries
+6056,Highly_Fatal_And_Damaging
 6063,Minor_Damage_And_Injuries
 6064,Significant_Damage_And_Serious_Injuries
 6072,Significant_Damage_And_Serious_Injuries
@@ -1341,7 +1341,7 @@ Accident_ID,Severity
 6599,Highly_Fatal_And_Damaging
 6625,Highly_Fatal_And_Damaging
 6632,Significant_Damage_And_Fatalities
-6641,Minor_Damage_And_Injuries
+6641,Significant_Damage_And_Serious_Injuries
 6651,Minor_Damage_And_Injuries
 6654,Significant_Damage_And_Serious_Injuries
 6657,Highly_Fatal_And_Damaging
@@ -1381,9 +1381,9 @@ Accident_ID,Severity
 6812,Significant_Damage_And_Fatalities
 6815,Highly_Fatal_And_Damaging
 6818,Minor_Damage_And_Injuries
-6828,Significant_Damage_And_Serious_Injuries
+6828,Minor_Damage_And_Injuries
 6832,Highly_Fatal_And_Damaging
-6833,Highly_Fatal_And_Damaging
+6833,Significant_Damage_And_Serious_Injuries
 6836,Highly_Fatal_And_Damaging
 6839,Minor_Damage_And_Injuries
 6842,Highly_Fatal_And_Damaging
@@ -1415,7 +1415,7 @@ Accident_ID,Severity
 6945,Significant_Damage_And_Fatalities
 6950,Significant_Damage_And_Serious_Injuries
 6953,Minor_Damage_And_Injuries
-6957,Significant_Damage_And_Fatalities
+6957,Highly_Fatal_And_Damaging
 6961,Significant_Damage_And_Fatalities
 6970,Significant_Damage_And_Serious_Injuries
 6975,Significant_Damage_And_Fatalities
@@ -1485,7 +1485,7 @@ Accident_ID,Severity
 7253,Highly_Fatal_And_Damaging
 7255,Significant_Damage_And_Serious_Injuries
 7267,Significant_Damage_And_Fatalities
-7269,Significant_Damage_And_Serious_Injuries
+7269,Minor_Damage_And_Injuries
 7279,Highly_Fatal_And_Damaging
 7284,Minor_Damage_And_Injuries
 7294,Highly_Fatal_And_Damaging
@@ -1559,7 +1559,7 @@ Accident_ID,Severity
 7664,Minor_Damage_And_Injuries
 7665,Significant_Damage_And_Serious_Injuries
 7668,Significant_Damage_And_Serious_Injuries
-7682,Significant_Damage_And_Serious_Injuries
+7682,Minor_Damage_And_Injuries
 7683,Highly_Fatal_And_Damaging
 7684,Highly_Fatal_And_Damaging
 7687,Significant_Damage_And_Serious_Injuries
@@ -1655,7 +1655,7 @@ Accident_ID,Severity
 8150,Minor_Damage_And_Injuries
 8152,Highly_Fatal_And_Damaging
 8157,Minor_Damage_And_Injuries
-8167,Significant_Damage_And_Serious_Injuries
+8167,Highly_Fatal_And_Damaging
 8172,Minor_Damage_And_Injuries
 8178,Significant_Damage_And_Fatalities
 8184,Significant_Damage_And_Serious_Injuries
@@ -1664,7 +1664,7 @@ Accident_ID,Severity
 8190,Highly_Fatal_And_Damaging
 8198,Minor_Damage_And_Injuries
 8200,Highly_Fatal_And_Damaging
-8206,Significant_Damage_And_Serious_Injuries
+8206,Significant_Damage_And_Fatalities
 8217,Significant_Damage_And_Serious_Injuries
 8221,Highly_Fatal_And_Damaging
 8224,Minor_Damage_And_Injuries
@@ -1730,7 +1730,7 @@ Accident_ID,Severity
 8562,Significant_Damage_And_Fatalities
 8567,Significant_Damage_And_Fatalities
 8571,Significant_Damage_And_Serious_Injuries
-8574,Minor_Damage_And_Injuries
+8574,Significant_Damage_And_Serious_Injuries
 8575,Minor_Damage_And_Injuries
 8576,Significant_Damage_And_Serious_Injuries
 8586,Highly_Fatal_And_Damaging
@@ -1784,7 +1784,7 @@ Accident_ID,Severity
 8815,Significant_Damage_And_Fatalities
 8862,Significant_Damage_And_Serious_Injuries
 8867,Minor_Damage_And_Injuries
-8870,Significant_Damage_And_Serious_Injuries
+8870,Minor_Damage_And_Injuries
 8873,Highly_Fatal_And_Damaging
 8875,Significant_Damage_And_Serious_Injuries
 8881,Significant_Damage_And_Fatalities
@@ -1803,7 +1803,7 @@ Accident_ID,Severity
 8961,Significant_Damage_And_Serious_Injuries
 8970,Significant_Damage_And_Fatalities
 8976,Significant_Damage_And_Fatalities
-8983,Highly_Fatal_And_Damaging
+8983,Significant_Damage_And_Fatalities
 8989,Minor_Damage_And_Injuries
 8998,Highly_Fatal_And_Damaging
 8999,Minor_Damage_And_Injuries
@@ -1811,7 +1811,7 @@ Accident_ID,Severity
 9013,Minor_Damage_And_Injuries
 9014,Significant_Damage_And_Fatalities
 9018,Significant_Damage_And_Fatalities
-9026,Minor_Damage_And_Injuries
+9026,Highly_Fatal_And_Damaging
 9027,Significant_Damage_And_Serious_Injuries
 9033,Highly_Fatal_And_Damaging
 9035,Highly_Fatal_And_Damaging
@@ -1852,7 +1852,7 @@ Accident_ID,Severity
 9219,Highly_Fatal_And_Damaging
 9230,Significant_Damage_And_Serious_Injuries
 9231,Highly_Fatal_And_Damaging
-9232,Significant_Damage_And_Fatalities
+9232,Highly_Fatal_And_Damaging
 9239,Significant_Damage_And_Fatalities
 9242,Highly_Fatal_And_Damaging
 9245,Significant_Damage_And_Serious_Injuries
@@ -1869,7 +1869,7 @@ Accident_ID,Severity
 9281,Minor_Damage_And_Injuries
 9282,Significant_Damage_And_Serious_Injuries
 9283,Significant_Damage_And_Serious_Injuries
-9292,Minor_Damage_And_Injuries
+9292,Highly_Fatal_And_Damaging
 9300,Minor_Damage_And_Injuries
 9302,Significant_Damage_And_Serious_Injuries
 9303,Significant_Damage_And_Serious_Injuries
@@ -1931,7 +1931,7 @@ Accident_ID,Severity
 9612,Significant_Damage_And_Serious_Injuries
 9615,Highly_Fatal_And_Damaging
 9622,Significant_Damage_And_Serious_Injuries
-9632,Significant_Damage_And_Serious_Injuries
+9632,Highly_Fatal_And_Damaging
 9636,Minor_Damage_And_Injuries
 9640,Minor_Damage_And_Injuries
 9641,Minor_Damage_And_Injuries
@@ -1943,7 +1943,7 @@ Accident_ID,Severity
 9689,Significant_Damage_And_Serious_Injuries
 9694,Highly_Fatal_And_Damaging
 9695,Highly_Fatal_And_Damaging
-9696,Highly_Fatal_And_Damaging
+9696,Significant_Damage_And_Serious_Injuries
 9699,Significant_Damage_And_Fatalities
 9717,Significant_Damage_And_Fatalities
 9720,Highly_Fatal_And_Damaging
@@ -2017,7 +2017,7 @@ Accident_ID,Severity
 10004,Minor_Damage_And_Injuries
 10006,Minor_Damage_And_Injuries
 10008,Significant_Damage_And_Fatalities
-10024,Highly_Fatal_And_Damaging
+10024,Significant_Damage_And_Fatalities
 10032,Minor_Damage_And_Injuries
 10038,Minor_Damage_And_Injuries
 10054,Minor_Damage_And_Injuries
@@ -2029,7 +2029,7 @@ Accident_ID,Severity
 10086,Minor_Damage_And_Injuries
 10089,Significant_Damage_And_Serious_Injuries
 10092,Highly_Fatal_And_Damaging
-10102,Minor_Damage_And_Injuries
+10102,Significant_Damage_And_Fatalities
 10104,Minor_Damage_And_Injuries
 10112,Highly_Fatal_And_Damaging
 10114,Significant_Damage_And_Serious_Injuries
@@ -2043,7 +2043,7 @@ Accident_ID,Severity
 10182,Minor_Damage_And_Injuries
 10183,Significant_Damage_And_Fatalities
 10185,Minor_Damage_And_Injuries
-10194,Minor_Damage_And_Injuries
+10194,Highly_Fatal_And_Damaging
 10199,Significant_Damage_And_Serious_Injuries
 10212,Minor_Damage_And_Injuries
 10220,Minor_Damage_And_Injuries
@@ -2095,7 +2095,7 @@ Accident_ID,Severity
 10491,Significant_Damage_And_Serious_Injuries
 10495,Significant_Damage_And_Serious_Injuries
 10496,Significant_Damage_And_Fatalities
-10504,Significant_Damage_And_Serious_Injuries
+10504,Highly_Fatal_And_Damaging
 10506,Minor_Damage_And_Injuries
 10508,Significant_Damage_And_Fatalities
 10514,Highly_Fatal_And_Damaging
@@ -2136,7 +2136,7 @@ Accident_ID,Severity
 10658,Highly_Fatal_And_Damaging
 10670,Minor_Damage_And_Injuries
 10674,Minor_Damage_And_Injuries
-10685,Highly_Fatal_And_Damaging
+10685,Significant_Damage_And_Fatalities
 10687,Significant_Damage_And_Fatalities
 10691,Minor_Damage_And_Injuries
 10692,Highly_Fatal_And_Damaging
@@ -2153,7 +2153,7 @@ Accident_ID,Severity
 10740,Highly_Fatal_And_Damaging
 10746,Minor_Damage_And_Injuries
 10748,Significant_Damage_And_Serious_Injuries
-10749,Minor_Damage_And_Injuries
+10749,Significant_Damage_And_Serious_Injuries
 10750,Highly_Fatal_And_Damaging
 10751,Highly_Fatal_And_Damaging
 10753,Highly_Fatal_And_Damaging
@@ -2176,7 +2176,7 @@ Accident_ID,Severity
 10836,Minor_Damage_And_Injuries
 10846,Highly_Fatal_And_Damaging
 10853,Highly_Fatal_And_Damaging
-10854,Significant_Damage_And_Serious_Injuries
+10854,Highly_Fatal_And_Damaging
 10866,Minor_Damage_And_Injuries
 10867,Minor_Damage_And_Injuries
 10875,Minor_Damage_And_Injuries
@@ -2244,7 +2244,7 @@ Accident_ID,Severity
 11189,Highly_Fatal_And_Damaging
 11193,Minor_Damage_And_Injuries
 11196,Significant_Damage_And_Serious_Injuries
-11197,Minor_Damage_And_Injuries
+11197,Highly_Fatal_And_Damaging
 11198,Highly_Fatal_And_Damaging
 11199,Highly_Fatal_And_Damaging
 11204,Minor_Damage_And_Injuries
@@ -2286,7 +2286,7 @@ Accident_ID,Severity
 11346,Minor_Damage_And_Injuries
 11347,Significant_Damage_And_Fatalities
 11348,Significant_Damage_And_Serious_Injuries
-11352,Highly_Fatal_And_Damaging
+11352,Significant_Damage_And_Fatalities
 11357,Minor_Damage_And_Injuries
 11360,Highly_Fatal_And_Damaging
 11368,Significant_Damage_And_Fatalities
@@ -2367,7 +2367,7 @@ Accident_ID,Severity
 11739,Significant_Damage_And_Serious_Injuries
 11741,Significant_Damage_And_Fatalities
 11748,Highly_Fatal_And_Damaging
-11749,Significant_Damage_And_Serious_Injuries
+11749,Minor_Damage_And_Injuries
 11757,Significant_Damage_And_Serious_Injuries
 11758,Highly_Fatal_And_Damaging
 11765,Minor_Damage_And_Injuries
@@ -2404,8 +2404,8 @@ Accident_ID,Severity
 11957,Significant_Damage_And_Fatalities
 11960,Minor_Damage_And_Injuries
 11975,Significant_Damage_And_Fatalities
-11978,Significant_Damage_And_Fatalities
-11983,Significant_Damage_And_Fatalities
+11978,Minor_Damage_And_Injuries
+11983,Minor_Damage_And_Injuries
 11990,Highly_Fatal_And_Damaging
 12002,Minor_Damage_And_Injuries
 12004,Significant_Damage_And_Serious_Injuries
@@ -2450,7 +2450,7 @@ Accident_ID,Severity
 12224,Minor_Damage_And_Injuries
 12225,Highly_Fatal_And_Damaging
 12229,Highly_Fatal_And_Damaging
-12234,Minor_Damage_And_Injuries
+12234,Significant_Damage_And_Fatalities
 12235,Highly_Fatal_And_Damaging
 12236,Significant_Damage_And_Fatalities
 12246,Significant_Damage_And_Fatalities
@@ -2462,7 +2462,7 @@ Accident_ID,Severity
 12292,Significant_Damage_And_Fatalities
 12310,Significant_Damage_And_Serious_Injuries
 12318,Highly_Fatal_And_Damaging
-12329,Significant_Damage_And_Fatalities
+12329,Significant_Damage_And_Serious_Injuries
 12332,Minor_Damage_And_Injuries
 12340,Minor_Damage_And_Injuries
 12346,Highly_Fatal_And_Damaging
@@ -2491,7 +2491,7 @@ Accident_ID,Severity
 12444,Highly_Fatal_And_Damaging
 12446,Significant_Damage_And_Serious_Injuries
 12461,Significant_Damage_And_Fatalities
-12473,Highly_Fatal_And_Damaging
+12473,Minor_Damage_And_Injuries
 12474,Highly_Fatal_And_Damaging
 12476,Minor_Damage_And_Injuries
 12484,Significant_Damage_And_Serious_Injuries
